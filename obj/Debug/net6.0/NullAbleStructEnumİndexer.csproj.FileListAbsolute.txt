@@ -1,0 +1,14 @@
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\bin\Debug\net6.0\NullAbleStructEnumİndexer.exe
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\bin\Debug\net6.0\NullAbleStructEnumİndexer.deps.json
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\bin\Debug\net6.0\NullAbleStructEnumİndexer.runtimeconfig.json
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\bin\Debug\net6.0\NullAbleStructEnumİndexer.dll
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\bin\Debug\net6.0\NullAbleStructEnumİndexer.pdb
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\NullAbleStructEnumİndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\NullAbleStructEnumİndexer.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\NullAbleStructEnumİndexer.AssemblyInfo.cs
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\NullAbleStructEnumİndexer.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\NullAbleStructEnumİndexer.dll
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\refint\NullAbleStructEnumİndexer.dll
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\NullAbleStructEnumİndexer.pdb
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\NullAbleStructEnumİndexer.genruntimeconfig.cache
+C:\Users\Allahverdi\source\repos\NullAbleStructEnumİndexer\obj\Debug\net6.0\ref\NullAbleStructEnumİndexer.dll

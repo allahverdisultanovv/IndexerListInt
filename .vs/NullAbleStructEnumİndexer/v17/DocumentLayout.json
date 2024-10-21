@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Allahverdi\\source\\repos\\NullAbleStructEnum\u0130ndexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0511335-AB08-4B1F-8ECF-9AAC5BF48444}|NullAbleStructEnum\u0130ndexer.csproj|c:\\users\\allahverdi\\source\\repos\\nullablestructenum\u0130ndexer\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0511335-AB08-4B1F-8ECF-9AAC5BF48444}|NullAbleStructEnum\u0130ndexer.csproj|solutionrelative:listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0511335-AB08-4B1F-8ECF-9AAC5BF48444}|NullAbleStructEnum\u0130ndexer.csproj|c:\\users\\allahverdi\\source\\repos\\nullablestructenum\u0130ndexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0511335-AB08-4B1F-8ECF-9AAC5BF48444}|NullAbleStructEnum\u0130ndexer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListInt.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\source\\repos\\NullAbleStructEnum\u0130ndexer\\ListInt.cs",
+              "RelativeDocumentMoniker": "ListInt.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\source\\repos\\NullAbleStructEnum\u0130ndexer\\ListInt.cs",
+              "RelativeToolTip": "ListInt.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAIA1wFwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:57:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Allahverdi\\source\\repos\\NullAbleStructEnum\u0130ndexer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Allahverdi\\source\\repos\\NullAbleStructEnum\u0130ndexer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T16:56:29.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
